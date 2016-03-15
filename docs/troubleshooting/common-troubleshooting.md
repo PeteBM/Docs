@@ -1,6 +1,12 @@
 # Common troubleshooting
 ========================
 
+##Updating RuneAudio Beta		
+
+###First-time update from version 0.3
+
+###Subsequent updates
+
 ##Accessing RuneUI from a Browser
 
 ###RuneUI on Windows
@@ -9,18 +15,26 @@
 
 ###Finding the RuneAudio IP Address
 
-
-##Accessing local USB storage with rw permissions
-
 ##Using network mounts
 
 ###NFS
 
 ###Windows/Samba
 
+##Accessing local USB storage with rw permissions
 
-##Adding packages from the command line
+##Remote Login	
 
-###Why Using apt-get does not work
+###From Microsoft Windows
+
+###From OSX and Linux
+
+###From Android
+	
+##The Arch/RuneOS command line
+
+###Why apt-get does not work
+
+###apt-get v. pacman
 
 ###Using pacman
